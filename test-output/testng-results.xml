@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-21T17:56:13 IST" name="Default suite" finished-at="2023-02-21T17:56:21 IST" duration-ms="8105">
+    <groups>
+      <group name="regression">
+        <method signature="testcases.regression()[pri:0, instance:TestCases.testcases@72a85671]" name="regression" class="TestCases.testcases"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="testcases.smoke()[pri:0, instance:TestCases.testcases@72a85671]" name="smoke" class="TestCases.testcases"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2023-02-21T17:56:13 IST" name="Default test" finished-at="2023-02-21T17:56:21 IST" duration-ms="8105">
+      <class name="TestCases.testcases">
+        <test-method signature="regression()[pri:0, instance:TestCases.testcases@72a85671]" started-at="2023-02-21T17:56:13 IST" name="regression" finished-at="2023-02-21T17:56:13 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regression -->
+        <test-method signature="smoke()[pri:0, instance:TestCases.testcases@72a85671]" started-at="2023-02-21T17:56:13 IST" name="smoke" finished-at="2023-02-21T17:56:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smoke -->
+        <test-method signature="beforetest()[pri:1, instance:TestCases.testcases@72a85671]" started-at="2023-02-21T17:56:13 IST" name="beforetest" finished-at="2023-02-21T17:56:21 IST" duration-ms="7520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="validate()[pri:2, instance:TestCases.testcases@72a85671]" started-at="2023-02-21T17:56:21 IST" name="validate" finished-at="2023-02-21T17:56:21 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method signature="close()[pri:3, instance:TestCases.testcases@72a85671]" started-at="2023-02-21T17:56:21 IST" name="close" finished-at="2023-02-21T17:56:21 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

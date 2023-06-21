@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-11T13:53:43 IST" name="Suite" finished-at="2023-02-11T13:53:54 IST" duration-ms="10449">
+    <groups>
+    </groups>
+    <test started-at="2023-02-11T13:53:43 IST" name="Test" finished-at="2023-02-11T13:53:54 IST" duration-ms="10449">
+      <class name="TestCases.testcases">
+        <test-method signature="beforetest()[pri:1, instance:TestCases.testcases@149e0f5d]" started-at="2023-02-11T13:53:43 IST" name="beforetest" finished-at="2023-02-11T13:53:53 IST" duration-ms="9813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="validate()[pri:2, instance:TestCases.testcases@149e0f5d]" started-at="2023-02-11T13:53:53 IST" name="validate" finished-at="2023-02-11T13:53:53 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate -->
+        <test-method signature="close()[pri:3, instance:TestCases.testcases@149e0f5d]" started-at="2023-02-11T13:53:53 IST" name="close" finished-at="2023-02-11T13:53:54 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCases.testcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
